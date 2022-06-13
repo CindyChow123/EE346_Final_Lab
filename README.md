@@ -16,4 +16,4 @@ In round 1, we did lane following and navigation. Each lap follows this order: P
 ![](https://github.com/CindyChow123/EE346_Final_Lab/blob/main/Videos/round1.gif)
 ### Round 2
 In round 2, we only did lane following. The whole traverse follows this order: P1->Lane Following->P1.
-![](https://github.com/CindyChow123/EE346_Final_Lab/blob/main/Videos/round2 .gif)
+![](https://github.com/CindyChow123/EE346_Final_Lab/blob/main/Videos/round2.gif)
