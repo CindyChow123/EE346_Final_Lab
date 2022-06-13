@@ -13,7 +13,7 @@ Our robot is asked to follow the black lane line to complete the lane following 
 ## Round Route
 ### Round 1
 In round 1, we did lane following and navigation. Each lap follows this order: P1->Lane Following->P2->Lane Following->P3->P4->P1.
-![](https://github.com/CindyChow123/EE346_Final_Lab/blob/main/Videos/round1.mp4)
+![](https://github.com/CindyChow123/EE346_Final_Lab/blob/main/Videos/round1.gif)
 ### Round 2
 In round 2, we only did lane following. The whole traverse follows this order: P1->Lane Following->P1.
-![](https://github.com/CindyChow123/EE346_Final_Lab/blob/main/Videos/round2.mp4)
+![](https://github.com/CindyChow123/EE346_Final_Lab/blob/main/Videos/round2.gif)
